@@ -1,0 +1,72 @@
+.header-block{
+    height: 96px;
+    width: 1440%;
+    max-width: 1440px;
+    position: fixed;
+    z-index: 50;
+    background-color: rgb(255, 255, 255);
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.flex-block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-header{
+    margin-left: 32px;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 20px;
+    width: 328%;
+    max-width:328px;
+    margin-right: 437px;
+}
+.black-block-header{
+    margin-left: 424px;
+    background-color: black;
+    color: White;
+    font-size: 16px;
+    height: 48px;
+    width: 100px;
+    border-radius: 32%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 24px;
+    font-family: 'Inter-700';
+}
+
+.nav-ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 20px;
+    width: 328px;
+}
+.nav-li{
+    height: 20px;
+    width: 328px;
+}
+.nav-a{ 
+    font-size:16px;
+    font-family: 'Inter-400';
+    /* position: relative; */
+    color:black;
+}
+/* ak minda rom gamochndes xazi navigaciaze da ver gavaswore */
+.nav-a::after{
+    content:"";
+    height: 12px;
+    width: 0%;
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all 0.1s;
+}
