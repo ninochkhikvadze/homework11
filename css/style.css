@@ -138,31 +138,28 @@
     gap: 30px;
     margin-top: 154px;
 }
-.feature-one{
-    height: 128px;
-    width: 360px;
-    background-color: blueviolet;
-}
-.feature-one-title{
-    height: 40px;
-    width: 360px;
-    background-color: aquamarine;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
 .featureone{
+    /* height: 128px;
+    width: 360px; */
+    background-color: blueviolet;
+    padding-left: 52px;
+    margin-top: -49px;
+    
+}
+.feature-one{
     font-size: 18px;
-    color: black;
     font-family: 'Inter-600';
     line-height: 28px;
     margin-left: 14px;
-    height: 28px;
+    height: 128px;
     width: 294px;
+    background-color: yellowgreen;
 }
 .feature-text{
     height: 32px;
-    width: 220px;
-    margin-top: 22px;
+    width: 320px;
+    margin-top: 8px;
+   padding-right:2px;
+   font-size: 16px;
    
 }
