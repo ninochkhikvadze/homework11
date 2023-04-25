@@ -28,7 +28,7 @@
     margin-right: 437px;
 }
 .black-block-header{
-    margin-left: 424px;
+    margin-left: 224px;
     background-color: black;
     color: White;
     font-size: 16px;
@@ -124,6 +124,7 @@
     max-width: 490px;
     width: 100%;
     margin-top: 360px;
+    margin-right: 120px;
 }
 /* end section1 */
 .main-div-container{
