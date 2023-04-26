@@ -179,3 +179,33 @@
     padding-left: 12px;
 }
 /* end section2 */
+.frame18{
+    height: 620px;
+    max-width: 1440px;
+    width: 100%;
+    left: 0px;
+    top: 908px;
+    border-radius: 0px;
+    padding: 96px 150px 96px 150px;
+    background-color: #000000;
+}
+.content-frame18{
+    height: 428px;
+    width: 1140px;
+    left: 150px;
+    top: 96px;
+    border-radius: 0px;
+    background-color: aquamarine;
+
+}
+.content-container-frame{
+    background-color: blue;
+    height: 120px;
+    width: 503.5px;
+    left: 0px;
+    top: 144px;
+    border-radius: 0px;
+    margin-top: -340px;
+    margin-left: 600px;
+
+}
