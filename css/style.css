@@ -1,6 +1,6 @@
 .header-block{
     height: 96px;
-    width: 1440%;
+    width: 100%;
     max-width: 1440px;
     position: fixed;
     z-index: 50;
@@ -8,6 +8,9 @@
     top: 0;
     left: 0;
     width: 100%;
+}
+.burger-bar{
+    display: none;
 }
 .flex-block{
     display: flex;
@@ -19,13 +22,13 @@
     margin-left: 32px;
 }
 .navigation{
-    display: flex;
     flex-direction: row;
     align-items: center;
     height: 20px;
     width: 328%;
     max-width:328px;
     margin-right: 437px;
+    display: block;
 }
 .black-block-header{
     margin-left: 224px;

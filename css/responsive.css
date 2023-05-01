@@ -1,1 +1,15 @@
-@media
+@media (min-width:320px) and (max-width:375px){
+    .burger-bar{
+        display: block;
+        background-color: black;
+        color: #fff;
+        height: 25px;
+        width: 25px;
+        padding-left:5px;
+        padding-top: 5px;
+        border-radius: 50%;
+
+    }
+    .navigation{display: none;}
+}
+    
