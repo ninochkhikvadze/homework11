@@ -8,8 +8,11 @@
         padding-left:5px;
         padding-top: 5px;
         border-radius: 50%;
-
     }
     .navigation{display: none;}
+    .section-1{flex-direction: column-reverse;}
+    .section-1-text{flex-direction: column-reverse;}
 }
+/* end header 320 */
+
     
