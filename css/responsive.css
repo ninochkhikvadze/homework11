@@ -75,9 +75,6 @@
         border-radius: 0px;
         padding: 24px;
     }
-    .two{
-        /* margin-top:-870px ; */
-    }
     .five{margin-top:2990px;}
     .main-div-container{
         height: 610px;
@@ -91,7 +88,88 @@
         margin-left: 15px;
     }
     /* end section3 */
-    
+    .frame{
+        height: 523px;
+        width: 375px;
+        left: 0px;
+        top: 1205px;
+        border-radius: 0px;
+        padding: 24px;
+    }
+    .content-frame{
+        flex-direction: column-reverse;
+    }
+    .img-2{
+        height: 195px;
+        width: 327px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+       gap: 10px;
+       margin-left:24px;
+       margin-top: 24px;
+    }
+    .content-container-frame{
+        height: 64px;
+        width: 320px;
+        margin-left: 11px;
+        margin-top: 30px;
+    }
+    .h3-frame{
+        font-family: 'Inter', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        line-height: 32px;
+        letter-spacing: -0.1px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        height: 64px;
+        width: 327px;
+    }
+    .p-frame{
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: -0.1px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        height: 64px;
+        width: 327px;
+        margin-top: 14px;
+    }
+    .ul-frame{
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: -0.1px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        height: 64px;
+        width: 327px;
+        margin-top: 14px;
+
+    }
+    .content-frame18{
+        height: 523px;
+        width: 375px;
+        left: 0px;
+        top: 1205px;
+        border-radius: 0px;
+        padding: 24px;
+        margin-left: -174px;
+        margin-top: -24px;
+    }
 }  
     /* end header 320 */
 
