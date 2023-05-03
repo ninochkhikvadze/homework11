@@ -236,6 +236,15 @@
     .hid{
         display: none;
     }
+    .hide{
+        margin-left: -65px;
+        margin-right: 5px;
+        padding-left: 30px;
+        padding-right: 10px;
+    }
+    .second-column{
+        margin-right: 75px;
+    }
 }
     /* end header 320 */
 
