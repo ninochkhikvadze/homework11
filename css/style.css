@@ -31,7 +31,8 @@
     display: block;
 }
 .black-block-header{
-    margin-left: 224px;
+    margin-left: 644px;
+    margin-top: -42px;
     background-color: black;
     color: White;
     font-size: 16px;
