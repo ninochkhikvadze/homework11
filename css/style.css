@@ -163,9 +163,12 @@
     margin-right:30px;
 }
 .two{
-    padding-left: 25px;
-    padding-right: 35px;
+    margin-left: 55px;
+    
 } 
+.five{
+    margin-left: 75px;
+}
 .content-container{
     height: 40px;
     width: 360px;
