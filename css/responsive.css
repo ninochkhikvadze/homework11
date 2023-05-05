@@ -1,4 +1,4 @@
-@media (min-width:320px) and (max-width:375px){
+@media (min-width:320px) and (max-width:488px){
     .burger-bar{
         display: block;
         background-color: black;
@@ -10,7 +10,9 @@
         border-radius: 50%;
     }
     .navigation{display: none;}
-    /* .section-1{flex-direction: column-reverse;} */
+    .section-1{ 
+        margin-left: 55px;
+    }
     .section-1-text{
         height: 97px;
         width: 324px;
@@ -70,10 +72,11 @@
     .img-section-1{
         height: 320px;
         width: 320px;
-        margin-right: 49px;
+        margin-right: 9px;
         margin-top: 25px;
         border-radius: 12px;
         padding: 10px;
+        margin-left: 55px;
     }
     .img-section1{
         border-radius: 12px;
@@ -189,7 +192,7 @@
     /* end section3 */
     .frame22{
         height: 490px;
-        width: 360px;
+        width: 470px;
         border-radius: 0px;
         display: flex;
         flex-direction: column;
@@ -227,25 +230,38 @@
     }
     .logowhite{
         margin-top: -180px;
-        margin-left: -10px;
+        margin-left: 80px;
         width: 100px;
     }
     .first-column{
-        margin-left: 14px;
+        margin-left: 74px;
     }
     .hid{
         display: none;
     }
     .hide{
-        margin-left: -65px;
+        margin-left: -85px;
         margin-right: 5px;
-        padding-left: 30px;
+        padding-left: 50px;
         padding-right: 10px;
     }
     .second-column{
         margin-right: 75px;
     }
 }
-    /* end header 320 */
+    /* end header 320 -375*/
+@media(mini-width:488px) and (max-width:744px){
+    .header-block{
+        height: 96px;
+        width: 744px;
+        left: 0px;
+        top: 0px;
+        border-radius: 0px;
+        padding: 24px;
+        justify: space-between;
 
+    }
+
+
+}
     
