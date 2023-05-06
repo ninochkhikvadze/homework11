@@ -267,7 +267,7 @@
         margin-top: 185px;
         margin-left: 70px;
         height: 348px;
-        width: 960px;
+        width: 940px;
         border-radius: 0px;
     }
     .button-one{height: 48px;
@@ -320,7 +320,7 @@
     }
     .main-div-container{
         height: 254px;
-        width: 1024px;
+        width: 1090px;
         left: 0px;
         top: 958px;
         border-radius: 0px;
@@ -353,7 +353,7 @@
     }
     .frame18{
         height: 895px;
-        width: 1024px;
+        width: 1190px;
         left: 0px;
         top: 1212px;
         border-radius: 0px;
@@ -725,7 +725,7 @@
 
     }
 }
-@media(min-width:810px) and (max-width:930px){
+@media(min-width:820px) and (max-width:930px){
     .content-container-frame{
         height: 185px;
         width: 960px;
@@ -861,7 +861,7 @@
         margin-left: 400px;
     }
 }
-@media(min-width:744px) and (max-width:809px){
+@media(min-width:744px) and (max-width:819px){
     .content-container-frame{
         height: 185px;
         width: 960px;
