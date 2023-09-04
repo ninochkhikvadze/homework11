@@ -725,6 +725,13 @@
 
     }
 }
+/* @media(max-width:898px){
+    .navigation{
+        display: flex;
+        justify-content: center;
+        margin-left: 460px;
+    }
+} */
 @media(min-width:820px) and (max-width:930px){
     .content-container-frame{
         height: 185px;
@@ -1050,5 +1057,10 @@
         letter-spacing: 0px;
         text-align: center;
     
+    }
+}
+@media(max-width:896px){
+    .navigation{
+        
     }
 }
